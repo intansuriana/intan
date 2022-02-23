@@ -1,3 +1,5 @@
+#All the credit goes to the templete owner
+
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Ghostwind](https://www.tailwindtoolbox.com/templates/ghostwind)
 
 [Ghostwind Template](https://www.tailwindtoolbox.com/templates/ghostwind) is a clone of the Casper theme for Ghost created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
